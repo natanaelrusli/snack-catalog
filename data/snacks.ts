@@ -56,4 +56,15 @@ export const snacks: SnackItem[] = [
       { weight: 250, price: 26000 },
     ],
   },
+  {
+    id: 6,
+    name: "Cheese Stick",
+    images: [
+      "https://ik.imagekit.io/4q1mfykz9w/snacks-catalog/image.png?updatedAt=1740456065917",
+    ],
+    variants: [
+      { weight: 100, price: 15000 },
+      { weight: 250, price: 35000 },
+    ],
+  },
 ];
